@@ -1,11 +1,18 @@
-'''Ask the user for a number. Depending on whether the number is even or odd, 
-print out an appropriate message to the user. Hint: how does an even / odd 
-number react differently when divided by 2?'''
+'''
+http://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
 
-check = int(raw_input("Please give me a number: "))
-num = int(raw_input("Please give me another number: "))
-if(check % num == 0):
-    print("Number " + str(check) + " is divisible by " + str(num))
+Exercise 2
+ODD OR EVEN
+
+Ask the user for a number. Depending on whether the number is even or odd, 
+print out an appropriate message to the user. 
+
+Hint: how does an even / odd number react differently when divided by 2?
+'''
+
+userInput = int(raw_input("Numero: "))
+
+if((userInput % 2) == 0):
+    print("El numero es par")
 else:
-    print("Number " + str(check) + " is NOT divisible by " + str(num))
-
+    print("El numero es impar")

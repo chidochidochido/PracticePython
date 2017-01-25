@@ -24,11 +24,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="01_character_input.py" />
+    <Compile Include="02_2_odd_or_even.py" />
     <Compile Include="02_odd_or_even.py" />
-    <Compile Include="02_odd_or_even_ver2.py" />
-    <Compile Include="03_list_less_than_ten.py" />
+    <Compile Include="03_3_list_less_than_ten.py" />
     <Compile Include="04_Divisors.py" />
-    <Compile Include="05_list_overlap.py" />
+    <Compile Include="05_1_list_overlap.py" />
     <Compile Include="06_string_lists.py" />
     <Compile Include="07_list_comprenhensions.py" />
     <Compile Include="08_Rock_Paper_Scissors.py" />
