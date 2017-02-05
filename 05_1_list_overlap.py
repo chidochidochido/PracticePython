@@ -15,7 +15,6 @@ Extras:
 1) Randomly generate two lists to test this
 '''
 
-#import random
 from random import randint
 
 randomListA = []

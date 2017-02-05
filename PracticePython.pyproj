@@ -5,8 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0436892f-a880-4ea6-b7de-dd8b8c2ac458</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>15_Reverse_Word_Order.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +36,18 @@
     <Compile Include="11_Check_Primality_Functions.py" />
     <Compile Include="12_list_ends.py" />
     <Compile Include="13_Fibonacci.py" />
+    <Compile Include="14_1_List_Remove_Duplicates.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="14_2_List_Remove_Duplicates.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="14_3_List_Remove_Duplicates.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="15_Reverse_Word_Order.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

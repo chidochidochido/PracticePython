@@ -22,7 +22,6 @@ elements that are common between the lists (without duplicates).
 Make sure your program works on two lists of different sizes.
 '''
 
-#import random
 from random import randint
 
 randomListA = []
